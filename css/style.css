@@ -133,7 +133,7 @@ ul {
 }
 
 .header.scrolled {
-    padding: 15px 0;
+    padding: 0px 0;
     background-color: rgba(255, 255, 255, 0.95);
 }
 
@@ -148,7 +148,7 @@ ul {
 }
 
 .logo p {
-    font-size: 0.8rem;
+    font-size: 0.rem;
     color: var(--text-light);
 }
 
@@ -196,7 +196,7 @@ ul {
     align-items: center;
     text-align: center;
     color: var(--white);
-    padding-top: 200px;
+    padding-top: 400px;
     
 }
 
